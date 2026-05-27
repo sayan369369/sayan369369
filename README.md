@@ -137,9 +137,9 @@ A growing collection of notebooks covering end-to-end ML workflows — from expl
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sayan369369&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sayan369369&theme=tokyonight" height="170em"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan369369&layout=compact&theme=tokyonight&hide_border=true" height="170em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sayan369369&theme=tokyonight" height="170em"/>
 
 <br/>
 
