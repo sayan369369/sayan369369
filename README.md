@@ -170,5 +170,5 @@ I'm always open to interesting conversations, research collaborations, or just t
 ---
 
 <div align="center">
-  <sub>⚡ Crafted with passion by Sayan Goswami</sub>
+  <sub>Sayan Goswami</sub>
 </div>
