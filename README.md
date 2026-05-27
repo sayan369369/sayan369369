@@ -82,50 +82,52 @@ class Sayan:
 <tr>
 <td width="50%" valign="top">
 
-### 🎵 Deep Learning Music Generation
+### 🎵 NādaAI — Deep Learning Music Generation
 **Hum a melody. Get a full song.**
 
-A deep learning pipeline that transforms a hummed melody into a fully generated musical composition. Built with **CREPE** for pitch detection and **LSTM** networks for sequence generation.
+End-to-end pipeline that records 5 seconds of humming, extracts pitch via **CREPE** (neural pitch detection), cleans note sequences, and feeds them as a seed to a **2-layer LSTM** trained on 495,932 notes from the Lakh MIDI dataset. Achieves **62.4% top-1 accuracy** on 128-class next-note prediction. Outputs a synthesised WAV via FluidSynth.
 
-> 🔬 *Actively under development — making it smarter, richer, and more expressive.*
+> 🔬 *Replacing argmax with temperature sampling + repetition penalty for richer, more expressive output.*
 
-`PyTorch` `CREPE` `LSTM` `Audio Processing`
+`PyTorch` `CREPE` `LSTM` `FluidSynth` `MIDI`
 
 </td>
 <td width="50%" valign="top">
 
-### 🫁 Chest X-Ray Analysis *(Research)*
-**Medical Imaging + Deep Learning**
+### 🫁 LRC-CXR — Chest X-Ray Research *(Summer Internship)*
+**Robust Multi-Label Classification under Label Noise**
 
-Research-oriented project on chest X-ray classification and analysis using deep learning, in collaboration with a dataset provided by **Shanghai University**. Exploring diagnostic-grade model performance.
+Summer research internship at **IIT Patna** under **Prof. Joydeep Chandra**. Working on **LRC-CXR** — a label-wise reliability-aware framework for noisy chest X-ray classification. Uses GMM-based label stratification, k-NN graph smoothing, and a hierarchical loss (Focal + GCE + SCE) to protect tail/rare disease classes. Evaluated on ChestX-ray14, CheXpert, and PadChest.
 
-> 📄 *Working towards a research paper.*
+> 📄 *Active research — working towards publication.*
 
-`PyTorch` `CNN` `Medical Imaging` `Research`
+`PyTorch` `CNN` `Medical Imaging` `Noisy Labels` `GMM`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📐 RAG Evaluation Metric *(In Progress)*
-**Measuring what matters in Retrieval-Augmented Generation**
+### 📐 RAG Evaluation Framework *(In Progress)*
+**Beyond surface-level metrics for Retrieval-Augmented Generation**
 
-Designing a novel evaluation framework that measures RAG system quality across both the **retrieval phase** (context relevance, recall) and **generation phase** (faithfulness, answer quality) — going beyond existing surface-level metrics.
+Conducted a full literature survey of RAG evaluation methods and integrated findings with **AI Ops** pipelines. Currently designing a novel evaluation metric that addresses the limitations of traditional RAG metrics — covering both the **retrieval phase** (context relevance, recall precision) and **generation phase** (faithfulness, hallucination detection, answer quality).
 
-> 🧪 *Bridging the gap between retrieval quality and generation fidelity.*
+> 🧪 *Solving what RAGAS and standard benchmarks leave on the table.*
 
-`LLMs` `RAG` `Evaluation` `NLP Research`
+`LLMs` `RAG` `AI Ops` `Evaluation` `NLP Research`
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Data Science & ML Notebooks
-**Exploration, analysis, and experimentation**
+### 🔗 Multimodal Classification — BERT + ResNet
+**Fusing language and vision for unified prediction**
 
-A growing collection of notebooks covering end-to-end ML workflows — from exploratory data analysis and feature engineering to model training, tuning, and visualization.
+Built a multimodal deep learning system that combines **BERT** (768-dim text embeddings) and **ResNet50** (2048-dim visual features), fused via concatenation into a 2816-dim unified representation and passed through a linear classifier. Achieves **100% accuracy** on the custom image-text dataset.
 
-`Pandas` `Scikit-learn` `Matplotlib` `NumPy`
+> ⚙️ *Exploring richer fusion strategies and larger datasets.*
+
+`PyTorch` `BERT` `ResNet50` `HuggingFace` `Multimodal`
 
 </td>
 </tr>
