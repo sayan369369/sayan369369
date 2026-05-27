@@ -26,11 +26,9 @@
 
 ## 👨‍💻 About Me
 
-> *I don't just study AI — I build with it. Every day.*
+> *I LOVE WHAT I DO*
 
-I'm **Sayan Goswami**, an MSc student in **Data Science & AI** with a foundation in Mathematics. I sit at the intersection of research and engineering — equally comfortable diving into the theory behind neural architectures and shipping production-ready systems.
-
-My work spans **deep learning**, **large language models**, **distributed computing**, and **scalable AI infrastructure**. I believe the most exciting problems live at the boundary of what's theoretically possible and what's practically deployable.
+Hello, I'm Sayan. Trained in Mathematics (Graduation), currently in my fine-tuning phase — MSc in Data Science & AI where I'm developing models, doing research, and pushing my own loss down. Deep learning, LLMs, distributed systems. Training in progress.
 
 ```python
 class Sayan:
