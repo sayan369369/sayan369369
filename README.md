@@ -99,7 +99,7 @@ End-to-end pipeline that records 5 seconds of humming, extracts pitch via **CREP
 
 Summer research internship at **IIT Patna** under **Prof. Joydeep Chandra**. Working on **LRC-CXR** — a label-wise reliability-aware framework for noisy chest X-ray classification. Uses GMM-based label stratification, k-NN graph smoothing, and a hierarchical loss (Focal + GCE + SCE) to protect tail/rare disease classes. Evaluated on ChestX-ray14, CheXpert, and PadChest.
 
-> 📄 *Active research — working towards publication.*
+> 📄 *Active research*
 
 `PyTorch` `CNN` `Medical Imaging` `Noisy Labels` `GMM`
 
