@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Sayan%20Goswami&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=MSc%20Data%20Science%20%26%20AI%20%7C%20Python%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=78&descSize=14&descColor=a8c8e8"/>
+# 👋 Hi, I'm Sayan Goswami
+
+### MSc Data Science & AI · Python Developer · AI/ML Enthusiast
 
 <br/>
 
@@ -12,7 +14,7 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=sayangoswami&label=Profile+Views&color=2c5364&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sayan369369&label=Profile+Views&color=2c5364&style=for-the-badge"/>
 
 <br/><br/>
 
@@ -135,13 +137,13 @@ A growing collection of notebooks covering end-to-end ML workflows — from expl
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sayangoswami&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sayan369369&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170em"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayangoswami&layout=compact&theme=tokyonight&hide_border=true" height="170em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan369369&layout=compact&theme=tokyonight&hide_border=true" height="170em"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=sayangoswami&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sayan369369&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -168,7 +170,5 @@ I'm always open to interesting conversations, research collaborations, or just t
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
-
+  <sub>⚡ Crafted with passion by Sayan Goswami</sub>
 </div>
